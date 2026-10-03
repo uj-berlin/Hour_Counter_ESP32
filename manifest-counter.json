@@ -1,0 +1,16 @@
+{
+  "name": "Betriebsstundenzähler ESP32",
+  "version": "1.4.3",
+  "new_install_prompt_erase": false,
+  "builds": [
+    {
+      "chipFamily": "ESP32-C3",
+      "parts": [
+        {
+          "path": "Xiao_esp32c3_Betrieb_V143.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
